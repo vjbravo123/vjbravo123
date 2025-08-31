@@ -66,11 +66,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/vivek-joshii" target="_blank">
+  <a href="https://www.linkedin.com/in/Vivek-Joshi0101/" target="_blank">
     <img src="https://img.icons8.com/color/60/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:vjbravojoshi@gmail.com">
+  <a href="mailto:vjoshii822@gmail.com">
     <img src="https://img.icons8.com/color/60/000000/gmail--v1.png" alt="Gmail"/>
   </a>
   &nbsp;&nbsp;
